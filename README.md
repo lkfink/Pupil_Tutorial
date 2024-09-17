@@ -62,3 +62,9 @@ Should trouble occur, or bugs be found, please [open an issue](https://github.co
 If using anything from this repository, cite:
 
 Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023). From pre-processing to advanced dynamic modeling of pupil data. *Behavior Research Methods*. [https://doi.org/10.3758/s13428-023-02098](https://doi.org/10.3758/s13428-023-02098)
+
+# UPDATES / Additional resources
+Since this publication, we have given a 4 hour Pupillometry Methods Workshop at the University of Konstanz. 
+All of the materials from that workshop are linked here: 
+
+[https://beatlab.mcmaster.ca/KonstanzWorkshopSummary.html](https://beatlab.mcmaster.ca/KonstanzWorkshopSummary.html)
